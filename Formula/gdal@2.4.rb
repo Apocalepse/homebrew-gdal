@@ -1,4 +1,4 @@
-class Gdal < Formula
+class GdalAT24 < Formula
   desc "Geospatial Data Abstraction Library"
   homepage "https://www.gdal.org/"
   url "https://download.osgeo.org/gdal/2.4.0/gdal-2.4.0.tar.xz"
